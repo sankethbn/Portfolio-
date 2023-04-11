@@ -10,7 +10,6 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 #
 
-#
 
 <img align="left" width="250" height="150" src="https://editor.analyticsvidhya.com/uploads/76889recommender-system-for-movie-recommendation.jpg"> **[Movie Recommendation System](https://github.com/sankethbn/Recommendation-System)**
  
