@@ -25,6 +25,7 @@ In this project I applied various classification models such as Logistic Regress
 
 In this project I applied various Regession models. I got a accuracy of 87% with RandomForest whereas DicisionTree was giving 89% accuracy but the problem of overfitting makes me to choose RandomForest.
 
+
 # 
 
 <img align="left" width="250" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLl2R412we1bLtQek9oXdgLsCHnhT_l7i-A&usqp=CAU"> **[Spam Message Classifier](https://github.com/sankethbn/SMS-Spam-Classifier)**
